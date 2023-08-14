@@ -1,0 +1,13 @@
+p {
+
+    
+    font-family: "SF Display";
+    font-weight: 700;
+    src: url("https://sf.abarba.me/SF-UI-Display-Bold.otf");
+    height: 100h;
+    width: 100vw;
+  
+
+    color: black;
+    text-align: center;
+  }
